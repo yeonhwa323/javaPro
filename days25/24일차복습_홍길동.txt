@@ -1,0 +1,30 @@
+1.  9:20  제출해 주세요~.
+ 
+  HashMap 컬렉션 클래스를 사용해서 
+    key   - TeamVO (name, totalNumber , leader ) 
+                   팀명   팀원수        팀리더
+                   
+    value - ArrayList<MemberVO>
+                      팀원들
+                      
+    로 저장해서 출력하는 코딩을 하세요. 
+    ( 조건 1: key 값으로 TeamVO 클래스 선언 )
+    ( 조건 2: value 값으로 어제 선언한 MemberVO 클래스 사용 )
+    ( 조건 3: 출력 메서드  void dispTeamMember(HashMap<TeamVO, ArrayList<MemberVO>> teamMap)  선언 )
+      
+  [실행결과]
+[1조(8명):구본혁]
+  [1] 류영은
+  [2] 윤형준
+  [3] 김영진
+  [4] 강명건
+  [5] 김진성
+  [6] 유진
+  [7] 이동찬
+[2조(7명):원대안]
+  [1] 이동영
+  [2] 한재호
+  [3] 권맑음
+  [4] 박우현
+  [5] 이시은
+  [6] 조연화 
